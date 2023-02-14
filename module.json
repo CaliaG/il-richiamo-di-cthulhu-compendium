@@ -21,6 +21,24 @@
             "path": "packs/abilita.db",
             "entity": "Item",
             "module": "il-richiamo-di-cthulhu-compendium"
+        },
+        {
+            "name": "oggetti",
+            "label": "Oggetti",
+            "type": "Item",
+            "system": "CoC7",
+            "path": "packs/oggetti.db",
+            "entity": "Item",
+            "module": "il-richiamo-di-cthulhu-compendium"
+        },
+        {
+            "name": "professioni",
+            "label": "Professioni",
+            "type": "Item",
+            "system": "CoC7",
+            "path": "packs/professioni.db",
+            "entity": "Item",
+            "module": "il-richiamo-di-cthulhu-compendium"
         }
     ],
     "id": "il-richiamo-di-cthulhu-compendium",
