@@ -1,0 +1,39 @@
+{
+    "name": "il-richiamo-di-cthulhu-compendium",
+    "title": "Il Richiamo di Cthulhu Compendium",
+    "author": "Giuseppe Calia",
+    "description": "Compendium per Il Richiamo di Cthulhu",
+    "packs": [
+        {
+            "name": "schede",
+            "label": "Schede",
+            "type": "Actor",
+            "system": "CoC7",
+            "path": "packs/schede.db",
+            "entity": "Actor",
+            "module": "il-richiamo-di-cthulhu-compendium"
+        },
+        {
+            "name": "abilita",
+            "label": "Abilita'",
+            "type": "Item",
+            "system": "CoC7",
+            "path": "packs/abilita.db",
+            "entity": "Item",
+            "module": "il-richiamo-di-cthulhu-compendium"
+        }
+    ],
+    "id": "il-richiamo-di-cthulhu-compendium",
+    "authors": [
+        {
+            "name": "Giuseppe Calia"
+        }
+    ],
+    "minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 9,
+        "verified": 10
+    },
+    "version": "1.0.0"
+}
