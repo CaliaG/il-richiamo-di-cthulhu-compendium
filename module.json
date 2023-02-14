@@ -53,7 +53,7 @@
         "minimum": 9,
         "verified": 10
     },
-    "manifest": "https://github.com/CaliaG/il-richiamo-di-cthulhu-compendium/releases/download/v1.0.0/module.json",
-    "download": "https://github.com/CaliaG/il-richiamo-di-cthulhu-compendium/releases/download/v1.0.0/il-richiamo-di-cthulhu-compendium.zip",
+    "manifest": "https://github.com/CaliaG/il-richiamo-di-cthulhu-compendium/releases/download/v1.0.1/module.json",
+    "download": "https://github.com/CaliaG/il-richiamo-di-cthulhu-compendium/releases/download/v1.0.1/il-richiamo-di-cthulhu-compendium.zip",
     "version": "1.0.1"
 }
