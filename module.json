@@ -5,15 +5,6 @@
     "description": "Compendium per Il Richiamo di Cthulhu",
     "packs": [
         {
-            "name": "schede",
-            "label": "Schede",
-            "type": "Actor",
-            "system": "CoC7",
-            "path": "packs/schede.db",
-            "entity": "Actor",
-            "module": "il-richiamo-di-cthulhu-compendium"
-        },
-        {
             "name": "abilita",
             "label": "Abilita'",
             "type": "Item",
@@ -39,6 +30,15 @@
             "path": "packs/professioni.db",
             "entity": "Item",
             "module": "il-richiamo-di-cthulhu-compendium"
+        },
+        {
+            "name": "professioni-manuale_investigatore",
+            "label": "Professioni (Manuale dell'Investigatore)",
+            "type": "Item",
+            "system": "CoC7",
+            "path": "packs/professioni-manuale_investigatore.db",
+            "entity": "Item",
+            "module": "il-richiamo-di-cthulhu-compendium"
         }
     ],
     "id": "il-richiamo-di-cthulhu-compendium",
@@ -53,7 +53,7 @@
         "minimum": 9,
         "verified": 10
     },
-    "manifest": "https://github.com/CaliaG/il-richiamo-di-cthulhu-compendium/releases/download/v1.0.1/module.json",
-    "download": "https://github.com/CaliaG/il-richiamo-di-cthulhu-compendium/releases/download/v1.0.1/il-richiamo-di-cthulhu-compendium.zip",
-    "version": "1.0.1"
+    "manifest": "https://github.com/CaliaG/il-richiamo-di-cthulhu-compendium/releases/download/v1.0.2/module.json",
+    "download": "https://github.com/CaliaG/il-richiamo-di-cthulhu-compendium/releases/download/v1.0.2/il-richiamo-di-cthulhu-compendium.zip",
+    "version": "1.0.2"
 }
