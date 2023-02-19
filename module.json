@@ -6,7 +6,7 @@
     "packs": [
         {
             "name": "abilita",
-            "label": "Abilita'",
+            "label": "Abilità",
             "type": "Item",
             "system": "CoC7",
             "path": "packs/abilita.db",
@@ -19,15 +19,6 @@
             "type": "Item",
             "system": "CoC7",
             "path": "packs/oggetti.db",
-            "entity": "Item",
-            "module": "il-richiamo-di-cthulhu-compendium"
-        },
-        {
-            "name": "professioni",
-            "label": "Professioni",
-            "type": "Item",
-            "system": "CoC7",
-            "path": "packs/professioni.db",
             "entity": "Item",
             "module": "il-richiamo-di-cthulhu-compendium"
         },
